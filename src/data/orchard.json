@@ -1,0 +1,100 @@
+{
+  "north_american_fruits": [
+    {
+      "name": "Apple",
+      "scientific_name": "Malus domestica",
+      "origin": "Central Asia",
+      "colors": ["red", "green", "yellow"],
+      "taste": "Sweet or tart depending on variety",
+      "uses": ["eating raw", "cooking", "juicing"],
+      "nutritional_facts": {
+        "calories_per_100g": 52,
+        "carbohydrates_per_100g": 14,
+        "fiber_per_100g": 2.4,
+        "vitamin_c_per_100g": 5,
+        "vitamin_a_per_100g": 1,
+        "potassium_per_100g": 107
+      }
+    },
+    {
+      "name": "Orange",
+      "scientific_name": "Citrus × sinensis",
+      "origin": "Southeast Asia",
+      "colors": ["orange"],
+      "taste": "Sweet and tangy",
+      "uses": ["eating raw", "juicing", "cooking"],
+      "nutritional_facts": {
+        "calories_per_100g": 47,
+        "carbohydrates_per_100g": 12,
+        "fiber_per_100g": 2.4,
+        "vitamin_c_per_100g": 53.2,
+        "vitamin_a_per_100g": 4,
+        "potassium_per_100g": 181
+      }
+    },
+    {
+      "name": "Banana",
+      "scientific_name": "Musa",
+      "origin": "Southeast Asia",
+      "colors": ["yellow"],
+      "taste": "Sweet",
+      "uses": ["eating raw", "baking", "smoothies"],
+      "nutritional_facts": {
+        "calories_per_100g": 89,
+        "carbohydrates_per_100g": 23,
+        "fiber_per_100g": 2.6,
+        "vitamin_c_per_100g": 8.7,
+        "vitamin_a_per_100g": 1,
+        "potassium_per_100g": 358
+      }
+    },
+    {
+      "name": "Peach",
+      "scientific_name": "Prunus persica",
+      "origin": "China",
+      "colors": ["yellow", "white", "red"],
+      "taste": "Sweet and juicy",
+      "uses": ["eating raw", "canning", "baking"],
+      "nutritional_facts": {
+        "calories_per_100g": 39,
+        "carbohydrates_per_100g": 10,
+        "fiber_per_100g": 1.5,
+        "vitamin_c_per_100g": 6.6,
+        "vitamin_a_per_100g": 2,
+        "potassium_per_100g": 190
+      }
+    },
+    {
+      "name": "Plum",
+      "scientific_name": "Prunus domestica",
+      "origin": "Europe and Asia",
+      "colors": ["red", "purple", "yellow"],
+      "taste": "Sweet and tart",
+      "uses": ["eating raw", "drying", "preserving"],
+      "nutritional_facts": {
+        "calories_per_100g": 46,
+        "carbohydrates_per_100g": 11,
+        "fiber_per_100g": 1.4,
+        "vitamin_c_per_100g": 9.5,
+        "vitamin_a_per_100g": 5,
+        "potassium_per_100g": 157
+      }
+    },
+    {
+      "name": "Cherry",
+      "scientific_name": "Prunus avium",
+      "origin": "Europe and Asia",
+      "colors": ["red", "black", "yellow"],
+      "taste": "Sweet or tart depending on variety",
+      "uses": ["eating raw", "baking", "preserving"],
+      "nutritional_facts": {
+        "calories_per_100g": 50,
+        "carbohydrates_per_100g": 12,
+        "fiber_per_100g": 1.6,
+        "vitamin_c_per_100g": 7,
+        "vitamin_a_per_100g": 2,
+        "potassium_per_100g": 173
+      }
+    }
+  ]
+}
