@@ -1,0 +1,55 @@
+{
+  "fruitSellerPersonas": [
+    {
+      "id": 1,
+      "name": "Luna Greene",
+      "title": "The Organic Enthusiast",
+      "background": "A former environmental scientist who decided to pursue her passion for sustainable farming.",
+      "specialAbility": "Can grow organic fruits faster and sell them at a premium price.",
+      "abilityStat": {
+        "organicGrowthRate": 1.5,
+        "organicPriceMultiplier": 1.3
+      }
+    },
+    {
+      "id": 2,
+      "name": "Aiden Bytes",
+      "title": "The Tech-Savvy Innovator",
+      "background": "A computer programmer turned fruit farmer who uses cutting-edge technology in his orchard.",
+      "specialAbility": "Can automate certain processes, reducing labor costs.",
+      "abilityStat": {
+        "laborCostReduction": 0.25
+      }
+    },
+    {
+      "id": 3,
+      "name": "Maria Cortez",
+      "title": "The Family Traditionalist",
+      "background": "Inherited her family's orchard that has been passed down for generations.",
+      "specialAbility": "Has secret family recipes for preserves that sell for high prices.",
+      "abilityStat": {
+        "preservesSaleMultiplier": 1.5
+      }
+    },
+    {
+      "id": 4,
+      "name": "Jack Sellers",
+      "title": "The Marketing Guru",
+      "background": "A former advertising executive who decided to buy an orchard and apply his marketing skills.",
+      "specialAbility": "Can boost fruit sales through clever advertising campaigns.",
+      "abilityStat": {
+        "salesBoostPercentage": 20
+      }
+    },
+    {
+      "id": 5,
+      "name": "Zara Tropica",
+      "title": "The Exotic Fruit Specialist",
+      "background": "A world traveler who collected rare fruit seeds and decided to start her own unique orchard.",
+      "specialAbility": "Can grow and sell exotic fruits that fetch higher prices.",
+      "abilityStat": {
+        "exoticFruitPriceMultiplier": 1.75
+      }
+    }
+  ]
+}
